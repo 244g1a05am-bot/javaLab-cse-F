@@ -47,3 +47,29 @@ class main{
 ```
 ## output
 ![output of screenshot](2b.output.PNG)
+## title: 2c.)implements class constructors in java
+```
+class student{
+ String name;
+ int age;
+ double marks;
+ student(String n,int a,double m){
+   name = n;
+   age = a;
+   marks=m;
+ }
+ void display(){
+   System.out.println("student name:"+name);
+   System.out.println("student age:"+age);
+   System.out.println("student marks:"+marks);
+ }
+}
+class main{
+  public static void main(String arg[]){
+    student std=new student("pavani",22,98.6);
+    std.display();
+  }
+}
+```
+## output
+![output of screenshot](2c.output.PNG)
