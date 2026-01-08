@@ -46,4 +46,4 @@ class main{
 }
 ```
 ## output
-![output of screenshot](2b.output.png)
+![output of screenshot](2b.output.PNG)
