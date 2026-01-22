@@ -115,4 +115,4 @@ class BinarySearchDemo {
 }
 ```
 ## output
-![output of screenshot](3b.output.PNG)
+![output of screenshot](3b.output.jpeg)
