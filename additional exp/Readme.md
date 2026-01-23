@@ -85,4 +85,4 @@ public class InsertSubstring {
 }
 ```
 ## output
-![output of screenshot](substring.output.JPEG)
+![output of screenshot](substring.output.jpeg)
